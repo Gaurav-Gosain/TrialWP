@@ -8,6 +8,7 @@ public static void main(String[]arr){
 	System.out.println(1+2);
 	System.out.println("Hi Vishan");
   int a = 2+4;
-	System.out.println(a)
+	System.out.println(a);
+	System.out.println("TEST");
 }
 }
